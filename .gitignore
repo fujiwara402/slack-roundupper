@@ -1,2 +1,2 @@
 # secretfile
-./bin/secret/*
+./bin/secret/env.list
