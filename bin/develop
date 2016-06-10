@@ -1,2 +1,2 @@
 docker build -t slack-roundupper ..
-docker run --env-file ./secret/env.list --rm --name runnig_slack-roundupper slack-roundupper
+docker run --env-file ../secret/env.list --rm --name runnig_slack-roundupper slack-roundupper
