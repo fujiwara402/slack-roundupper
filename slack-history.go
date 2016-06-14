@@ -37,7 +37,6 @@ func main() {
 	} else {
 		for _, usr := range users {
 			fmt.Printf("%+v:%+v\n", usr.ID, usr.Name)
-
 		}
 	}
 
